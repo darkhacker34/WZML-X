@@ -2,11 +2,11 @@
 class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
-    ST_BN1_NAME = '🥰Channels'
-    ST_BN1_URL = 'https://t.me/addlist/lDx-uWhVnDxlMGRl'
+    ST_BN1_NAME = '✨Group'
+    ST_BN1_URL = 'https://t.me/TeraBox_Leech'
     ST_BN2_NAME = '📞 Contact'
     ST_BN2_URL = 'https://t.me/PreDVD_ChatBot'
-    ST_MSG = '''<b>Hy 👻. You Will Get All New Movies in Our Channels😋</b>'''
+    ST_MSG = '''<b>Hy 👻 You Can Use The Bot In Group!🙃</b>'''
     ST_BOTPM = '''<i>Now, This bot will send all your files and links here. Start Using ...</i>'''
     ST_UNAUTH = '''<i>You Are not authorized user! Deploy your own WZML-X Mirror-Leech bot</i>'''
     OWN_TOKEN_GENERATE = '''<b>Temporary Token is not yours!</b>\n\n<i>Kindly generate your own.</i>'''
